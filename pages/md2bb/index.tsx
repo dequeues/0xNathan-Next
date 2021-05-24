@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import MarkdownToBBCode from '../markdown_to_bbcode';
+import MarkdownToBBCode from '../../markdown_to_bbcode';
 import {useState} from 'react';
 
 
